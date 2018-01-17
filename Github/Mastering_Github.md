@@ -1,6 +1,6 @@
 # Mastering Github
 
-[** Mastering Markdown in Github > **
+[** 1. Mastering Markdown in Github > **
 ][e73eed3b]
 
   [e73eed3b]: https://guides.github.com/features/mastering-markdown/ "Link"
