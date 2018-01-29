@@ -16,4 +16,4 @@ A game for learning CSS Grid.
 7 awesome transition effects with Css3
 
 ### [CSS Matic >](https://www.cssmatic.com/)
-The ultimate CSS tools for developers: Gradients, Box shadow, Border Radius, Noise Texture.
+The ultimate CSS tools for developers: Gradients, Box shadow, Noise Texture, Border Radius. 
