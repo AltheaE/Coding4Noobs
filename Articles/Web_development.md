@@ -10,11 +10,21 @@ Is the advent calendar for web geeks. For twenty-four days each December we publ
 Helps you to find the right license for you project
 
   [d7bda7f0]: https://choosealicense.com/ "Link"
+  
+### [Codrops >](https://tympanus.net/codrops/)
+Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques    and new possibilities
 
-
-
+### [CSS Tricks >](https://www.google.com)
+Tips, Tricks, and Techniques on using Cascading Style Sheets.
 
 ### [Programming Ebooks >][73c66db2]
 Get your free programming ebooks
 
   [73c66db2]: https://www.packtpub.com/packt/offers/free-learning "Link"
+
+
+### [Smashing magazine](https://www.smashingmagazine.com/)
+Website and eBook publisher that offers editorial content and professional resources for web developers and web designers.
+
+### [Web designer news >](https://www.webdesignerdepot.com/)
+ A curated collection of the best news for designers each day. 
