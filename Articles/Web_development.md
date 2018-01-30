@@ -17,6 +17,8 @@ Codrops is a web design and development blog that publishes articles and tutoria
 ### [CSS Tricks >](https://www.google.com)
 Tips, Tricks, and Techniques on using Cascading Style Sheets.
 
+### [Best Google Chrome extensions  for web developers 2018>](https://premium.wpmudev.org/blog/the-17-best-google-chrome-extensions-for-web-developers/)
+
 ### [Programming Ebooks >][73c66db2]
 Get your free programming ebooks
 
